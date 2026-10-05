@@ -1,0 +1,39 @@
+button {
+    margin-top: 10px;
+    background-color: #31bd24;
+    font-size: 1.2em;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    color: white;
+}
+
+
+h1 {
+    color: #120b13;
+    margin-top: 50px;
+    font-size: 3em;
+}
+
+
+p {
+    color: #000000;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 2em;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    font-size: 2em;
+}
