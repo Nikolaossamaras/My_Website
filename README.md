@@ -4,9 +4,6 @@ This is a website i made for practice and for the stardance mission Personal Sit
 ## What is it exactly
 Well it's more of an self intruduction to the internet than a portofolio
 
-## Can you use it
-Yeah  of course even though i don't know why  you would but still it's Open Source.
-
 ## What is in the Site
 Well that's a  secret ,but from what i can  tell you is that something does really work there.
 
