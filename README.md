@@ -20,3 +20,7 @@ It was hard for me to code the text appearing code in Javascript so I resorted t
 
 ## why I built it
 First of all I wanted to practice my html ,Javascript and CSS skills ,as I haven't coded in them for a while,but what gave me the final push is probably the stardance's mission "personal site"
+
+## what would I improve
+I would probably try making my site more beautiful with css.
+Sadly I am not very familiar with it so this was the best I could do
