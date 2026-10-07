@@ -9,13 +9,23 @@ button {
     color: white;
 }
 
-
 h1 {
+    border: 2px solid #4e4a4a;  
+    padding: 10px;   
+    border-radius: 25px;       
     color: #120b13;
     margin-top: 50px;
     font-size: 3em;
+    text-align: center;
 }
+.text-box {
+  border: 2px solid #4e4a4a;   
+  padding: 10px;               
+  background-color: #eec0c0;   
+  text-align: center;
+  border-radius: 25px;            
 
+}
 
 p {
     color: #000000;
